@@ -1,0 +1,11 @@
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\UI_Testing_1_Tests.dll
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\UI_Testing_1_Tests.pdb
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\UI_Testing_1.dll
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\WebDriver.dll
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\UI_Testing_1.pdb
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\WebDriver.xml
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\obj\Debug\UI_Testing_1_Tests.csprojResolveAssemblyReference.cache
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\obj\Debug\UI_Testing_1_Tests.dll
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\obj\Debug\UI_Testing_1_Tests.pdb
+c:\users\gpham\documents\visual studio 2015\Projects\UI_Testing_1\UI_Testing_1_Tests\bin\Debug\geckodriver.exe
